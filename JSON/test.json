@@ -1,0 +1,35 @@
+[
+{
+  "id": "beeswax",
+  "price": 2.00,
+  "url": "https://api.jsonbin.io/b/5f7211eb65b18913fc556a46"
+},{
+  "id": "beeswax-craft-pack",
+  "price": 1.00,
+  "url": "https://api.jsonbin.io/b/5f7211eb65b18913fc556a46"
+},{
+  "id": "beeswax-loofah-soap",
+  "price": 5.00,
+  "url": "https://api.jsonbin.io/b/5f7211eb65b18913fc556a46"
+},{
+  "id": "chunk-honey",
+  "price": 12.00,
+  "url": "https://api.jsonbin.io/b/5f7211eb65b18913fc556a46"
+},{
+  "id": "crushed-honey",
+  "price": 2.00,
+  "url": "https://api.jsonbin.io/b/5f7211eb65b18913fc556a46"
+},{
+  "id": "honey",
+  "price": 2.00,
+  "url": "https://api.jsonbin.io/b/5f7211eb65b18913fc556a46",
+  "customFields": [
+    {
+      "name": "Size",
+      "options": ".5lb|1.25lb[+6.00]|3lb[+8.00]|5lb[+5.00]",
+      "type": "dropdown"
+    }
+  ]
+}
+
+  ]
